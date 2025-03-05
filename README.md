@@ -5,7 +5,7 @@
 - ⚡ Atualmente estou em formação de Engenharia de Software 
 - 🔭 Atuando em dados e Business Intelligence
 - 🚀 Pós graduada em Data science e IA
-- 😄 Apaixonada por tecnologia
+- 🧩 Apaixonada por tecnologia
  <br>
   <p align="center">"Quem tem informação, tem poder! Quem tem conhecimento, tem sabedoria para mantê-lo!"</p>
 
@@ -22,7 +22,7 @@
 </div>
 
    <br><br>
-<h2>Tools:</h2>
+<h2>⚙️ Tools:</h2>
 
 <div style="display: flex; align-items: center; gap: 5px;">
     <img alt="VisualStudio" height="22" width="22" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -83,7 +83,8 @@
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank"></a> 
 <a href="https://www.reddit.com/u/Srta_Yang_017/s/t5QNZxxbJb" target="_blank"><img src= "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target=_blank"></a>  
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target=_blank"></a> 
-<a href="" target="_blank"><img src= "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target=_blank"></a> 
+<a href="" target="_blank"><img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target=_blank"></a> 
+<a href="" target="_blank"><img src= "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target=_blank"></a>
 </div>
   
 <br><br><br>
