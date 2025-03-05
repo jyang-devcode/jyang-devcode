@@ -2,8 +2,10 @@
 
 - ⚡ Atualmente estou em formação de Engenharia de Software 
 - 🔭 Atuando em dados e Business Intelligence
-- 🚀 Apaixonada por tecnologia
-- 😄 Pronome: ela/dela
+- 🚀 Pós graduada em Data science e IA
+- 😄 Apaixonada por tecnologia
+ <br>
+  <p align="center">"Quem tem informação, tem poder! Quem tem conhecimento, tem sabedoria para mantê-lo!"</p>
 
 <h2>💻 Tech Stack:</h2>
 <div style="display: inline_block"><br><br>
