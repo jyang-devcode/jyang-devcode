@@ -11,20 +11,74 @@
 
 <h2>💻 Tech Stack:</h2>
 <div style="display: inline_block"><br><br>
-<img align="center" alt="Jyang-HTML" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-<img align="center" alt="Jyang-CSS" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-<img align="center" alt="Jyang-Js" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Jyang-Python" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="center" alt="Jyang-PowerBi" height="37" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-<img align="center" alt="Jyang-Notion" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg"> 
-<img align="center" alt="Jyang-DW" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dreamweaver/dreamweaver-original.svg">  
-<img align="center" alt="Jyang-PS" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
-<img align="center" alt="Jyang-AE" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmN2ZwbWRocXhuNHNrNG9kYjg1Z2xrM2dlMzNjOTZ3cm42NHJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="220">
-  </div>
-  <br><br><br><br>
+ <img align="center" alt="Jyang-HTML" src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117">
+ <img align="center" alt="Jyang-Css3" src="https://img.shields.io/badge/-Css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117">
+ <img align="center" alt="Jyang-Js" src="https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
+ <img align="center" alt="Jyang-Py" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117">
+ 
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmN2ZwbWRocXhuNHNrNG9kYjg1Z2xrM2dlMzNjOTZ3cm42NHJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="200">
+<br>
+<br>
+</div>
+
+   <br><br>
+<h2>Tools:</h2>
+
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="VisualStudio" height="22" width="22" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img alt="Jyang-VisualStudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="Jyang-PowerBi" height="22" width="22" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+    <img alt="Jyang-PowerBi" src="https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=Power-BI&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="Jyang-Notion" height="22" width="22" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
+    <img alt="Jyang-Notion" src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=Notiono&logoColor=white">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img width="22" height="22" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
+    <img src="https://img.shields.io/badge/-Windows_11-0D1117?style=for-the-badge&logo=Windows-11&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img width="22" height="22" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux_&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img width="22" height="22" src="https://img.icons8.com/color/48/office-365.png" alt="office-365"/>
+    <img src="https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=Microsoft-office&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img width="22" height="22" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"> 
+    <img src="https://img.shields.io/badge/-Adobe_Photoshop-0D1117?style=for-the-badge&logo=Adobe-Photoshop&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img width="22" height="22" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+</div>
+
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img width="22" height="22" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
+    <img src="https://img.shields.io/badge/-Adobe_After_Effects-0D1117?style=for-the-badge&logo=Adobe-After-Effects&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 5px;">
+    <img alt="DW" height="22" width="22" src="https://github.com/devicons/devicon/blob/master/icons/dreamweaver/dreamweaver-original.svg">
+    <img alt="Jyang-Dreamweaver" src="https://img.shields.io/badge/-Dreamweaver-0D1117?style=for-the-badge&logo=Adobe-dreamweaver&logoColor=C8A2C8&labelColor=0D1117">
+</div>
+
+<br><br><br>
   
-  <h2>🌐 Socials:</h2>
+<h2>🌐 Socials:</h2>
 <div>
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank"></a> 
 <a href="https://www.reddit.com/u/Srta_Yang_017/s/t5QNZxxbJb" target="_blank"><img src= "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target=_blank"></a>  
