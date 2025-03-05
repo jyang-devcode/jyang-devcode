@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
+
 <h2>💡Jyang</h2>
 
 - ⚡ Atualmente estou em formação de Engenharia de Software 
@@ -30,7 +32,7 @@
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target=_blank"></a> 
 </div>
   
-<br><br>
+<br><br><br>
 <h2>📈 GitHub Stats:</h2>
 <div>
 <a href="https://github.com/jyang-devcode">
@@ -39,6 +41,21 @@
 <br><br><br>
 <img align= "left" height="115em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyang-devcode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"/>
 </div>
+<br><br><br><br><br><br><br><br><br><br>
+
+ <h2>📈 Graph</h2>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyang-devcode&bg_color=000000&color=7308EF&line=07e9a5&point=0a855c&area=true&hide_border=true)"/>
+
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jyang-devcode}/count.svg"/></p>
+ <br>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
+
 
 
 
