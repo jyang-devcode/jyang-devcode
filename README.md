@@ -8,6 +8,10 @@
 - 🧩 Apaixonada por tecnologia
  <br>
   <p align="center">"Quem tem informação, tem poder! Quem tem conhecimento, tem sabedoria para mantê-lo!"</p>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12178238509&cover_image=true&theme=natemoo-re&show_offline=false&background_color=9c9c9c&interchange=false&bar_color=2a27dd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br><br>
 
 <h2>💻 Tech Stack:</h2>
 <div style="display: inline_block"><br><br>
