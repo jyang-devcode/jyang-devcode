@@ -23,6 +23,7 @@
   <h2>🌐 Socials:</h2>
 <div>
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank"></a> 
+<a href="https://www.reddit.com/u/Srta_Yang_017/s/t5QNZxxbJb" target="_blank"><img src= "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target=_blank"></a>  
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target=_blank"></a> 
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target=_blank"></a> 
 </div>
@@ -32,7 +33,7 @@
 <div>
 <a href="https://github.com/jyang-devcode">
 <img align= "left" height="160em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=jyang-devcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-<img align= "right" height="160em" style="padding-right: 10px;" src="https://nirzak-streak-stats.vercel.app/?user=jyang-devcode&theme=tokyonight&hide_border=true)<br"/>
+<img align= "right" height="160em" style="padding-right: 10px;" src="https://nirzak-streak-stats.vercel.app/?user=jyang-devcode&theme=tokyonight&hide_border=true)&locale=pt-br"/>
 <br><br><br>
 <img align= "left" height="115em" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyang-devcode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"/>
 </div>
