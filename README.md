@@ -20,7 +20,7 @@
 <img align="center" alt="Jyang-DW" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dreamweaver/dreamweaver-original.svg">  
 <img align="center" alt="Jyang-PS" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
 <img align="center" alt="Jyang-AE" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmN2ZwbWRocXhuNHNrNG9kYjg1Z2xrM2dlMzNjOTZ3cm42NHJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="280">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmN2ZwbWRocXhuNHNrNG9kYjg1Z2xrM2dlMzNjOTZ3cm42NHJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FjGEQSybauJqM/giphy.gif" width="220">
   </div>
   <br><br><br><br>
   
