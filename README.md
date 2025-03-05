@@ -6,7 +6,7 @@
 - 😄 Pronome: ela/dela
 
 <h2>💻 Tech Stack:</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
 <img align="center" alt="Jyang-HTML" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="Jyang-CSS" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
 <img align="center" alt="Jyang-Js" height="37" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -22,7 +22,9 @@
   
   <h2>🌐 Socials:</h2>
 <div>
+<a href="" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank"></a> 
 <a href="" target="_blank"><img src= "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target=_blank"></a> 
+<a href="" target="_blank"><img src= "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target=_blank"></a> 
 </div>
   
 <br><br>
