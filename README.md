@@ -112,7 +112,6 @@
 </div>
 <br><br><br><br><br><br><br><br><br><br>
 
-![snake gif](https://github.com/jyang-devcode/jyang-devcode/blob/output/github-contribution-grid-snake.svg)
 
  <h2>📈 Graph</h2>
  
