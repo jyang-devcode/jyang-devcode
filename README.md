@@ -6,11 +6,11 @@
 - 🔭 Atuando em dados e Business Intelligence
 - 🚀 Pós graduada em Data science e IA
 - 🧩 Apaixonada por tecnologia
-
+<br>
 <details>
  <br>
  <sumary><p><b>Quem sou</b></p></sumary>
--🚀 Sou do Brasil e tenho fluência na língua inglesa e coreana, tenho experiência com análise de dados em Business Intelligence, análise de indicadores, construção e análise de Dashboard de acompanhamentos de performance utilizando a linguagem DAX e M para mensuração de resultados, tenho pós em Data Science e IA e ERP, atualmente retornei aos estudos de tecnologia e estou fazendo Engenharia de Software com foco em um aprofundamento e reaproveitamento de experiência já obtidas no longo da carreira e estudos anteriores.
+-🚀 Sou do Brasil e tenho fluência na língua inglesa e coreana, tenho experiência com análise de dados em Business Intelligence, análise de indicadores, construção e análise de Dashboard de acompanhamentos de performance utilizando a linguagem DAX e M para mensuração de resultados, tenho pós em Data Science e IA e ERP, atualmente retornei aos estudos de tecnologia e estou fazendo Engenharia de Software com foco em um aprofundamento e reaproveitamento de experiências já obtidas no longo da carreira e estudos anteriores.
  <br>
 -🧩 Amo video game, ler livros, apreciar boas leituras sobre cultura asiática, assistir séries, filmes clássicos e ouvir música.
 
