@@ -1,11 +1,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
 
-<h2>💡Jyang</h2>
+<h2>💡Jyang</h2> 
 
 - ⚡ Atualmente estou em formação de Engenharia de Software 
 - 🔭 Atuando em dados e Business Intelligence
 - 🚀 Pós graduada em Data science e IA
 - 🧩 Apaixonada por tecnologia
+
+<details>
+ <br>
+ <sumary><p><b>Quem sou</b></p></sumary>
+-🚀 Sou do Brasil e tenho fluência na língua inglesa e coreana, tenho experiência com análise de dados em Business Intelligence, análise de indicadores, construção e análise de Dashboard de acompanhamentos de performance utilizando a linguagem DAX e M para mensuração de resultados, tenho pós em Data Science e IA e ERP, atualmente retornei aos estudos de tecnologia e estou fazendo Engenharia de Software com foco em um aprofundamento e reaproveitamento de experiência já obtidas no longo da carreira e estudos anteriores.
+ <br>
+-🧩 Amo video game, ler livros, apreciar boas leituras sobre cultura asiática, assistir séries, filmes clássicos e ouvir música.
+
+</details>
+
  <br>
   <p align="center">"Quem tem informação, tem poder! Quem tem conhecimento, tem sabedoria para mantê-lo!"</p>
 <br>
